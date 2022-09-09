@@ -1,2 +1,5 @@
 # Parcial-EcoApps
-## Por Valeria Martinez
+## Presentado por
+# Valeria Martinez Betancourt
+## Código
+# A00372453
